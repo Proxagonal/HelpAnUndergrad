@@ -8,7 +8,6 @@
 using namespace std;
 using namespace Eigen;
 
-sf::RenderWindow getWindow();
 void draw(Solver &solver, sf::RenderWindow &window);
 
 
